@@ -1,6 +1,6 @@
 # Loch Rannoch
 
-Its been a over three years since I last did a [half marathon](https://x.com/fintanr/status/1366002001054736386), and (with a lot of prompting from a friend) I have decided to do another one - the [Loch Rannoch Half Marathon](https://runnation.co.uk/r/rannochhalfmarathon2024) on October 13th, 2024. 
+Its been almost three and a half years since I last did a [half marathon](https://x.com/fintanr/status/1366002001054736386), and (with a lot of prompting from a friend) I have decided to do another one - the [Loch Rannoch Half Marathon](https://runnation.co.uk/r/rannochhalfmarathon2024) on October 13th, 2024. 
 
 Been a while since I have done any running at all, but I guess its time to get running 🏃 again, and I plan on logging my training here. The training starts properly the week of July 22nd. The goal is just to finish and enjoy the half, nothing more. 
 
