@@ -7,7 +7,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 | Week | Mon  | Tue    | Notes | Wed    | Notes | Thu    | Notes | Fri  | Sat    | Notes | Sun |
 |-------------------|------|--------|-------|--------|-------|--------|-------|------|--------|-------|-----|
 | (2) - Jul 8        |  |  |       |  |       | 🏃 3.5km  |🇫🇷🕐 25:21     |  | 🏃 4.5km | 🇫🇷🕐 30:13      |     |
-| (1) - Jul 15        |  | |       | |       |  |       |  |  |       |     |
+| (1) - Jul 15        | 🏃 4.8km | |🇫🇷🕐 33:30 🌤️ 24C       | |       |  |       |  |  |       |     |
 | 1 - Jul 22        | Rest | 4.8 km |       | 4.8 km |       | 4.8 km |       | Rest | 6.4 km |       |     |
 | 2 - Jul 29        | Rest | 4.8 km |       | 4.8 km pace|       | 4.8 km |       | Rest | 8.1 km |       |     |
 | 3 - Aug 5         | Rest | 4.8 km |       | 6.4 km |       | 4.8 km |       | Rest | 9.7 km |       |     |
