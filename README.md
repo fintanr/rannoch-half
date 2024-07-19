@@ -6,8 +6,8 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Week | Mon  | Tue    | Notes | Wed    | Notes | Thu    | Notes | Fri  | Sat    | Notes | Sun |
 |-------------------|------|--------|-------|--------|-------|--------|-------|------|--------|-------|-----|
-| (2) - Jul 8        |  |  |       |  |       | 🏃 3.5km  |🇫🇷🕐 25:21     |  | 🏃 4.5km | 🇫🇷🕐 30:13      |     |
-| (1) - Jul 15        | 🏃 4.8km | |🇫🇷🕐 33:30 🌤️ 24C       | |       |  |       |  |  |       |     |
+| (2) - Jul 8        |  |  |       |  |       | 🏃 3.5km  |     |  | 🏃 4.5km |       |     |
+| (1) - Jul 15        | 🏃 4.8km | |       | 🏃 5km |       |  |       | 🏃 5km |  |       |     |
 | 1 - Jul 22        | Rest | 4.8 km |       | 4.8 km |       | 4.8 km |       | Rest | 6.4 km |       |     |
 | 2 - Jul 29        | Rest | 4.8 km |       | 4.8 km pace|       | 4.8 km |       | Rest | 8.1 km |       |     |
 | 3 - Aug 5         | Rest | 4.8 km |       | 6.4 km |       | 4.8 km |       | Rest | 9.7 km |       |     |
@@ -20,3 +20,15 @@ Been a while since I have done any running at all, but I guess its time to get r
 | 10 - Sep 23       | Rest | 4.8 km |       | 8.1 km pace|       | 4.8 km |       | Rest | 17.7 km|       |     |
 | 11 - Sep 30       | Rest | 4.8 km |       | 8.1 km |       | 4.8 km |       | Rest | 19.3 km|       |     |
 | 12 - Oct 7        | Rest | 4.8 km |       | 3.2 km pace|       | 3.2 km |       | Rest | Rest   |       | Half    |
+
+
+## Run Notes
+
+| Date | Distance | Notes |
+|---|---|---|
+| July 19th | 5km | 🇫🇷 🕐 33:04 ☀️ 21C ⏰ 8:20AM - Soulac Sur Mer |
+| July 17th | 5km | 🇫🇷 🕐 34:49 ⛅ 19C - Cognac|
+| July 15th | 4.8km | 🇫🇷 🕐 33:30 ☀️ 24C - Cognac |
+| July 13th | 4.5km | 🇫🇷 🕐 30:13 ☀️ 23C - Cognac |
+| July 11th | 3.5km | 🇫🇷 🕐 25:21 ☀️ 24C - Cognac |
+
