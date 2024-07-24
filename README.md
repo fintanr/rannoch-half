@@ -8,7 +8,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 |-------------------|------|--------|-------|--------|-------|--------|-------|------|--------|-------|-----|
 | (2) - Jul 8        |  |  |       |  |       | 🏃 3.5km  |     |  | 🏃 4.5km |       |     |
 | (1) - Jul 15        | 🏃 4.8km | |       | 🏃 5km |       |  |       | 🏃 5km |  |       |     |
-| 1 - Jul 22        | Rest | 4.8 km |       | 4.8 km |       | 4.8 km |       | Rest | 6.4 km |       |     |
+| 1 - Jul 22        | Rest | 🏃 5km | 🟢      | 🏃 5km | 🟢      | 4.8 km |       | Rest | 6.4 km |       |     |
 | 2 - Jul 29        | Rest | 4.8 km |       | 4.8 km pace|       | 4.8 km |       | Rest | 8.1 km |       |     |
 | 3 - Aug 5         | Rest | 4.8 km |       | 6.4 km |       | 4.8 km |       | Rest | 9.7 km |       |     |
 | 4 - Aug 12        | Rest | 4.8 km |       | 6.4 km pace|       | 4.8 km |       | Rest | 11.3 km|       |     |
@@ -26,6 +26,8 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
+| July 24th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 32.52 ☁️ 18C ⏰ 19:20 - Edinburgh |
+| July 23rd | 5km | 🇫🇷 🕐 34:16 ☀️ 18C ⏰ 8:10AM - Cognac |
 | July 19th | 5km | 🇫🇷 🕐 33:04 ☀️ 21C ⏰ 8:20AM - Soulac Sur Mer |
 | July 17th | 5km | 🇫🇷 🕐 34:49 ⛅ 19C - Cognac|
 | July 15th | 4.8km | 🇫🇷 🕐 33:30 ☀️ 24C - Cognac |
