@@ -7,7 +7,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 | Week | Mon  | Tue    | Notes | Wed    | Notes | Thu    | Notes | Fri  | Sat    | Notes | Sun |
 |-------------------|------|--------|-------|--------|-------|--------|-------|------|--------|-------|-----|
 | 1 - Jul 22        |  | 🏃 5km | 🟢      | 🏃 5km | 🟢      | 🏃 5km | 🟢      |  | 🏃 6.5 km | 🟢      |     |
-| 2 - Jul 29        |  | 🏃 5km | 🟢      | -|   🟠    | 🏃4.2km  |   🟠    | 🏃 5km  | 8.1 km |       |     |
+| 2 - Jul 29        |  | 🏃 5km | 🟢      | -|   🟠    | 🏃4.2km  |   🟠    | 🏃 5km  | 🏃 8.1 km |  🟢     |     |
 | 3 - Aug 5         |  | 4.8 km |       | 6.4 km |       | 4.8 km |       | | 9.7 km |       |     |
 | 4 - Aug 12        |  | 4.8 km |       | 6.4 km pace|       | 4.8 km |       | | 11.3 km|       |     |
 | 5 - Aug 19        |  | 4.8 km |       | 6.4 km |       | 4.8 km |       | | 12.9 km|       |     |
@@ -24,6 +24,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
+| August 3rd | 8.1km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 53:33 ☀️ 16C ⏰ 10:05 - Edinburgh, Water of Leith, Botantics, Stockbridge | 
 | August 2nd | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 32:26 ☀️ 18C ⏰ 9:25 - Edinburgh, Fettes - Botanics - Stockbridge - Water of Leith |
 | August 1st | 4.1km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 26:11 ⛅ 17C ⏰ 9:30 - Edinburgh, Fettes - Stockbridge - Water of Leith. 🚑 Fell, ouch |
 | July 30th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 32:31 ☀️ 15C ⏰ 8:50 - Edinburgh, Water of Leith/Roseburn | 
