@@ -8,9 +8,9 @@ Been a while since I have done any running at all, but I guess its time to get r
 |-------------------|------|--------|-------|--------|-------|--------|-------|------|--------|-------|-----|
 | 1 - Jul 22        |  | 🏃 5km | 🟢      | 🏃 5km | 🟢      | 🏃 5km | 🟢      |  | 🏃 6.5 km | 🟢      |     |
 | 2 - Jul 29        |  | 🏃 5km | 🟢      | -|   🟠    | 🏃4.2km  |   🟠    | 🏃 5km  | 🏃 8.1 km |  🟢     |     |
-| 3 - Aug 5         |  | 🏃 5km | 🟢      | 🏃 6.5 km |  🟢     | 4.8 km | 🔴     | | ▶️ Sun |    🟢   |   🏃 10km  |
+| 3 - Aug 5         |  | 🏃 5km | 🟢      | 🏃 6.5km |  🟢     | 4.8 km | 🔴     | | ▶️ Sun |    🟢   |   🏃 10km  |
 | 4 - Aug 12        |  | 🏃 5km | 🟢      | -|   🟠    | - |  🔴     | | 🏃 11.3 km|    🟢   |     |
-| 5 - Aug 19        |  | 🏃 5km | 🟢      | 6.4 km |       | 4.8 km |       | | 12.9 km|       |     |
+| 5 - Aug 19        |  | 🏃 5km | 🟢      | 🏃 6.5km | 🟢       | 4.8 km |       | | 12.9 km|       |     |
 | 6 - Aug 26        |  | 4.8 km |       | 6.4 km pace|       | 4.8 km |       | | 5-K Race |       |     |
 | 7 - Sep 2         |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 14.5 km|       |     |
 | 8 - Sep 9         |  | 4.8 km |       | 8.1 km pace|       | 4.8 km |       | | 16.1 km|       |     |
@@ -24,6 +24,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
+| August 21st | 6.5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 46:00 🏠 17C ⏰ 9:30 - Edinburgh, indoors treadmill, controlled pace |
 | August 20th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 33:44 ⛅ 12C ⏰ 8:50 - Edinburgh, Water of Leith, Roseburn |
 | August 17th | 11.3 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:16.50 ⛅ 18C ⏰ 17:25 - Edinburgh , Water of Leith, Botantics, Stockbridge |
 | August 13th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 37:55 ⛅ 13C ⏰ 8:20 - Elie, Fife, with H. 17km walk afterwards |
