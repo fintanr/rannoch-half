@@ -24,7 +24,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
-| August 23rd | 12.96km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:21:44 12C ⏰ 9:00 - Edinburgh, cycle paths (Roseburn around to Warriston), Botanics, Stockbridge |
+| August 23rd | 12.96km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:21:44 12C ⏰ 9:00 - Edinburgh, cycle paths (Roseburn -> Warriston), Botanics, Stockbridge |
 | August 22nd | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 33:29 🏠 17C ⏰ 9:10 - Edinburgh, indoors treadmill, controlled pace, 🏋️ before |
 | August 21st | 6.5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 46:00 🏠 17C ⏰ 9:30 - Edinburgh, indoors treadmill, controlled pace |
 | August 20th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 33:44 ⛅ 12C ⏰ 8:50 - Edinburgh, Water of Leith, Roseburn |
