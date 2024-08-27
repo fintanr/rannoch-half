@@ -11,7 +11,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 | 3 - Aug 5         |  | 🏃 5km | 🟢      | 🏃 6.5km |  🟢     | 4.8 km | 🔴     | | ▶️ Sun |    🟢   |   🏃 10km  |
 | 4 - Aug 12        |  | 🏃 5km | 🟢      | -|   🟠    | - |  🔴     | | 🏃 11.3 km|    🟢   |     |
 | 5 - Aug 19        |  | 🏃 5km | 🟢      | 🏃 6.5km | 🟢       | 🏃 5km |  🟢     | | 🏃 12.9km| 🟢      |     |
-| 6 - Aug 26        |  | 4.8 km |       | 6.4 km pace|       | 4.8 km |       | | 5-K Race |       |     |
+| 6 - Aug 26        |  | 🏃 5km | 🟢      | 6.4 km pace|       | 4.8 km |       | | 5-K Race |       |     |
 | 7 - Sep 2         |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 14.5 km|       |     |
 | 8 - Sep 9         |  | 4.8 km |       | 8.1 km pace|       | 4.8 km |       | | 16.1 km|       |     |
 | 9 - Sep 16        |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 10-K Race |       |     |
@@ -24,7 +24,8 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
-| August 23rd | 12.96km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:21:44 12C ⏰ 9:00 - Edinburgh, cycle paths (Roseburn -> Warriston), Botanics, Stockbridge |
+| August 27th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 38:38 ⛅ 17C ⏰ 12:40 - Edinburgh,  with H, Water of Leith, Roseburn |
+| August 24th | 12.96km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:21:44 12C ⏰ 9:00 - Edinburgh, cycle paths (Roseburn -> Warriston), Botanics, Stockbridge |
 | August 22nd | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 33:29 🏠 17C ⏰ 9:10 - Edinburgh, indoors treadmill, controlled pace, 🏋️ before |
 | August 21st | 6.5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 46:00 🏠 17C ⏰ 9:30 - Edinburgh, indoors treadmill, controlled pace |
 | August 20th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 33:44 ⛅ 12C ⏰ 8:50 - Edinburgh, Water of Leith, Roseburn |
