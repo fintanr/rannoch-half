@@ -12,7 +12,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 | 4 - Aug 12        |  | 🏃 5km | 🟢      | -|   🟠    | - |  🔴     | | 🏃 11.3 km|    🟢   |     |
 | 5 - Aug 19        |  | 🏃 5km | 🟢      | 🏃 6.5km | 🟢       | 🏃 5km |  🟢     | | 🏃 12.9km| 🟢      |     |
 | 6 - Aug 26        |  | 🏃 5km | 🟢      | 🏃 6.5km | 🟢      | 🏃 5km |  🟢     | | 🏃 5km | 🟢 🏅      |     |
-| 7 - Sep 2         |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 14.5 km|       |     |
+| 7 - Sep 2         |  | 🏃 5km | 🟢      | 8.1 km |       | 4.8 km |       | | 14.5 km|       |     |
 | 8 - Sep 9         |  | 4.8 km |       | 8.1 km pace|       | 4.8 km |       | | 16.1 km|       |     |
 | 9 - Sep 16        |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 10-K Race |       |     |
 | 10 - Sep 23       |  | 4.8 km |       | 8.1 km pace|       | 4.8 km |       | | 17.7 km|       |     |
@@ -24,7 +24,8 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
-| August 30th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 29:18 ☀️ 11C ⏰ 8:30 - Edinburgh, Water of Leith, Roseburn, not a race, but pushed to go faster |
+| Sept 1st | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 36:29 ☁️ 15C ⏰ 12:30 - Edinburgh,  with H, Water of Leith, Roseburn |
+| August 31st | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 29:18 ☀️ 11C ⏰ 8:30 - Edinburgh, Water of Leith, Roseburn, not a race, but pushed to go faster |
 | August 29th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 33:59 🏨 18C ⏰ 8:55 - Edinburgh, indoors treadmill, 🩼 - sore ankle |
 | August 28th | 6.4km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 42:57 🏨 18C ⏰ 9:15 - Edinburgh, indoors treadmill, controlled pace, 🏋️ before |
 | August 27th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 38:38 ⛅ 17C ⏰ 12:40 - Edinburgh,  with H, Water of Leith, Roseburn |
