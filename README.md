@@ -13,7 +13,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 | 5 - Aug 19        |  | 🏃 5km | 🟢      | 🏃 6.5km | 🟢       | 🏃 5km |  🟢     | | 🏃 12.9km| 🟢      |     |
 | 6 - Aug 26        |  | 🏃 5km | 🟢      | 🏃 6.5km | 🟢      | 🏃 5km |  🟢     | | 🏃 5km | 🟢 🏅      |     |
 | 7 - Sep 2         |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 🏃 5km | 🟢      | | 🏃 15km|  🟢     |     |
-| 8 - Sep 9         |  | 🏃 5km | 🟢      | 8.1 km pace|       | 4.8 km |       | | 16.1 km|       |     |
+| 8 - Sep 9         |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 4.8 km |       | | 16.1 km|       |     |
 | 9 - Sep 16        |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 10-K Race |       |     |
 | 10 - Sep 23       |  | 4.8 km |       | 8.1 km pace|       | 4.8 km |       | | 17.7 km|       |     |
 | 11 - Sep 30       |  | 4.8 km |       | 8.1 km |       | 4.8 km |       | | 19.3 km|       |     |
@@ -24,6 +24,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
+| Sept 11th | 8.1km | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🕐 50:53 ☀️ 9C ⏰ 8:30 - London, O2 to Greenwich Park 🏞️, [🖼️ on BlueSky](https://bsky.app/profile/fintanr.bsky.social/post/3l3ukpz54ak2q) |
 | Sept 10th | 5km | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🕐 32:20 🏨 19C ⏰ 19:45 - London, indoors treadmill |
 | Sept 7th | 15km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:34:08 ☁️ 14C ⏰ 9:35 - Edinburgh, Water of Leith out to [Colinton Tunnel](https://www.colintontunnel.org.uk/), [🖼️ on BlueSky](https://bsky.app/profile/fintanr.bsky.social/post/3l3ktb6tsem2i) | 
 | Sept 5th | 5km |  🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 36:33 ☁️ 14C ⏰ 12:30 - Edinburgh,  with H, Water of Leith, Inverleith, Stockbridge |
