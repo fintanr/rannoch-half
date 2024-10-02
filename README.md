@@ -16,7 +16,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 | 8 - Sep 9         |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 🚶 5km | 🟠      | | 🏃 16.1km| 🟢      |     |
 | 9 - Sep 16        |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 4.8 km |  -     | 🟢 | 🏃 13km |  ◀️ Fri     |     |
 | 10 - Sep 23       |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 4.8 km |  -     | | 17.7 km| 🟢       | ▶️ Mon    |
-| 11 - Sep 30       | 🏃 17.7km | ✈️ |       | 8.1 km |       | 4.8 km |    | | 19.3 km|       |     |
+| 11 - Sep 30       | 🏃 17.7km | ✈️ |       | 🏃 8.1 km | 🟢      | 4.8 km |    | | 19.3 km|       |     |
 | 12 - Oct 7        |  | 4.8 km |       | 3.2 km pace|       | 3.2 km |       |  | -   |       | Half    |
 
 
@@ -24,6 +24,7 @@ Been a while since I have done any running at all, but I guess its time to get r
 
 | Date | Distance | Notes |
 |---|---|---|
+| Oct 2nd | 8.1km | 🇺🇸 🕐 48::15 ⛅ 18C ⏰ 12:05 - Portland, Maine, [🖼️ on Bluesky](https://bsky.app/profile/fintanr.bsky.social/post/3l5kiq65cag2b)
 | Sept 30th | 17.7km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 1:47:55 🏨 19C ⏰ 12:25 - Edinburgh, indoors, treadmill. Dreich ⛈️. Skipped weekend due to illness 🌡️ |
 | Sept 25th | 8.1km | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🕐 53:53 🏨 19C ⏰ 8:05 - London, indoors, treadmill |
 | Sept 24th | 5km | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🕐 32:26 🏨 19C ⏰ 19:30 - London, indoors, treadmill |
