@@ -17,13 +17,14 @@ Been a while since I have done any running at all, but I guess its time to get r
 | 9 - Sep 16        |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 4.8 km |  -     | 🟢 | 🏃 13km |  ◀️ Fri     |     |
 | 10 - Sep 23       |  | 🏃 5km | 🟢      | 🏃 8.1km | 🟢      | 4.8 km |  -     | | 17.7km| 🟢       | ▶️ Mon    |
 | 11 - Sep 30       | 🏃 17.7km | ✈️ |       | 🏃 8.1 km | 🟢      | 4.8 km | -   | | 20km| 🟢      |     |
-| 12 - Oct 7        |  | 🏃 5km | 🟢      | 3.2 km pace|       | 3.2 km |       |  | -   |       | Half    |
+| 12 - Oct 7        |  | 🏃 5km | 🟢      | 💉 3.2km |  🔴      | 🏃 3.2km |  🟢     |  | -   |       | Half    |
 
 
 ## Run Notes
 
 | Date | Distance | Notes |
 |---|---|---|
+| Oct 10th | 3.2km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 19:10 🌃 5C ⏰ 21:10 - Edinburgh, West End |
 | Oct 8th | 5km | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🕐 31:27  🏨 19C ⏰ 8:55 - Edinburgh, indoors, treadmill |
 | Oct 5th | 20km | 🇺🇸 🕐 2:04:49 ⛅ 17C ⏰ 08:35 - Boston, Atlantic Ave, Boston Common, Loop to Elliot Bridge, back to Longfellow Bridge on Charles River [🖼️ on Bluesky](https://bsky.app/profile/fintanr.bsky.social/post/3l5rlvtre2w2w) |
 | Oct 2nd | 8.1km | 🇺🇸 🕐 48::15 ⛅ 18C ⏰ 12:05 - Portland, Maine, [🖼️ on Bluesky](https://bsky.app/profile/fintanr.bsky.social/post/3l5kiq65cag2b)
